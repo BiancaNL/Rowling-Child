@@ -1,0 +1,17 @@
+/*
+Theme Name: Rowling Child Theme
+Theme URI: https://andersnoren.se/themes/rowling
+Author: Anders Noren 
+Author URI: https://andersnoren.se
+Description: Custom settings for the Rowling Theme 
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: rowling
+Domain Path: /languages/
+Template: rowling
+Tags: blog, three-columns, right-sidebar, custom-colors, custom-menu, editor-style, featured-images, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+/* Add your custom css below */
+.home .post-content {margin-top:10px;}
