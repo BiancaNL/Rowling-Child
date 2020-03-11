@@ -14,4 +14,6 @@ Tags: blog, three-columns, right-sidebar, custom-colors, custom-menu, editor-sty
 */
 
 /* Add your custom css below */
-.home .post-content {margin-top:10px;}
+.home .post-content {
+  margin-top:10px;
+}
